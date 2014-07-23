@@ -23,5 +23,5 @@ The requirements are:
 
 ### write_tidy_set
 
-To write the updated data set in the .txt file
+To write the updated data set in the .txt file tidyset.txt
  
