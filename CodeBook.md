@@ -18,7 +18,7 @@ In other words, it should be like this:
 ## Reading Data in R
 
 On lines 1 to 12 of run_analysis.R, reading related commands are there
-
+and variables are declared in line 1 to 10
 ```
 colnames(Data) <- gsub('\\(|\\)',"",names(Data), perl = TRUE)
 colnames(Data) <- gsub('\\-',"",names(Data), perl = TRUE)
